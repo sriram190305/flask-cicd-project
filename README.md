@@ -1,1 +1,1 @@
-# Flask-cicd-project
+Containerized Flask Web Application using Docker and GitHub
